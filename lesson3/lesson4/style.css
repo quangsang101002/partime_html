@@ -1,0 +1,17 @@
+.wrapper-input {
+  display: flex;
+}
+img {
+  width: 100%;
+}
+.main_img {
+  margin: 0 10px;
+}
+body {
+  font-family: "Alkatra", cursive;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
